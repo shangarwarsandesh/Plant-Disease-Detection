@@ -6,13 +6,20 @@ Computer Vision,
 Deep Learning (CNN)
 ```
 
-## Commands For Running Project :
+## Commands For Installing Libraries :
 
 ```
 pip install numpy pandas opencv-python
 pip install torch torchvision torchaudio
 pip install pillow
 pip install streamlit
+```
+## Commands For Running Project :
+
+```
+python main.py
+python app.py
+streamlit run app.py
 ```
 ## To Clone :
 `
