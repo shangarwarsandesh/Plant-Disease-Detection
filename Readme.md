@@ -87,7 +87,7 @@ Create a simple interface for end-users using Streamlit.
 - Continuously update the dataset and retrain the model to improve accuracy.
 
 
-## Authors -
+## Authors :
 ```
 1. Sandesh Shangarwar
 2. Prajwal Sakhale
